@@ -1,3 +1,5 @@
+//71A Solution
+
 import java.util.*;
 
 public class Way_Too_Long_Words{

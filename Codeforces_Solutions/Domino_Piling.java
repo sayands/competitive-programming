@@ -1,3 +1,5 @@
+//50A Solution
+
 import java.util.*;
 
 public class Domino_Piling{

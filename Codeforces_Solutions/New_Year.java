@@ -1,3 +1,5 @@
+//723A Solution
+
 import java.util.*;
 
 public class New_Year{

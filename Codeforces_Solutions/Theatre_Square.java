@@ -1,3 +1,5 @@
+//1A Solution
+
 import java.util.*;
 
 public class Theatre_Square{

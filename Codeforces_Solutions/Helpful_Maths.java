@@ -1,3 +1,5 @@
+//339A Solution
+
 import java.util.*;
 import java.util.Arrays;
 
@@ -13,8 +15,7 @@ public class Helpful_Maths{
             if(i%2==0){
                 arr[x] = Integer.parseInt(s.substring(i,i+1));
                 x++;
-            }    
-            //System.out.println(arr[x]);    
+            }      
         }
         Arrays.sort(arr);
         for(int i=0;i<len;i++){

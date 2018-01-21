@@ -1,3 +1,5 @@
+//427A Solution
+
 import java.util.*;
 
 public class Police_Recruits{
