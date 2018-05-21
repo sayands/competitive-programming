@@ -10,8 +10,7 @@ class Solution
     vector<vector<int>> generate(int numRows)
     {
         vector<vector<int>> vec;
-
-        for (int i = 0; i < numRows; i++)
+        st for (int i = 0; i < numRows; i++)
         {
             vector<int> row(i + 1, 1);
             for (int j = 1; j < i; j++)
